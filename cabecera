@@ -9,3 +9,10 @@ ojos
 orejas
 
 boca
+    <div>
+        <p> el nuevo div para el tercer comit del dia !</p>
+        <p>todo pasa nada queda el git es una herramienta para producir y no perderse en el codigo!
+        </p>
+        <br>
+        <p>agrega trazabilidad bit a bit!</p>
+    </div>
